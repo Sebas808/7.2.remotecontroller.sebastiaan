@@ -1,0 +1,12 @@
+
+mijn naam is sebastiaan Kuper
+
+voor deze periode 7.2 moeten wij een remote controller maken. wij maken hierbij gebruik van node.js
+
+mijn idee voor deze opgaven is om een soort kahoot te maken je krijgt op je latop/main scherm een vraag te zien met verschilende antwoorden die verbonden zijn aan een kleur.
+op je telefoon (dus de remote controller voor deze opdracht) krijg je de kleuren/antwoorden te zien en moet jij de goede kiezen.
+heb jij dit goed dan krijg je een punt dit gaat door tot dat alle vragen zijn beantwoord.
+
+voor de spelers(de mensen op de remote controller) kunnen van te voren een naam kiezen.
+deze woord uiteindelijk getoond op het einde als je kan zien hoeveel punten je hebt gehaald.
+
